@@ -4,7 +4,7 @@
 
 ## Data Scientist | Data Analyst | Data Engineer | Economista
 
-- Estudié Data Science en Henry y Economía en la Universidad de Lima
+- Estudié Data Science en [Henry](https://www.soyhenry.com) y Economía en la [Universidad de Lima](https://www.ulima.edu.pe)
 - Busco colaborar en Data Science
 
 - 🛠  Stack y Herramientas Tecnológicas
