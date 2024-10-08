@@ -10,7 +10,7 @@
 - 🛠  Stack y Herramientas Tecnológicas
 
 Python Pandas NumPy MySQL SQL Server PostgreSQL Power BI Matplotlib Seaborn VS Code Jupyter Google Colab FastAPI Scikit-learn NLTK Git Docker Render Streamlit Google Cloud
-
+[Imagen con el texto "Data Scientist" en color azul, "Data Analyst" en verde, "Data Engineer" en naranja y "Astrophysicist" en morado, sobre el fondo de la imagen original]
 Contácteme
 
 Gmail : mcarruitero@gmail.com
