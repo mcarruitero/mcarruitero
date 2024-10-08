@@ -8,11 +8,11 @@
 - Busco colaborar en Data Science
 
 - 🛠  Stack y Herramientas Tecnológicas
+
 Python Pandas NumPy MySQL SQL Server PostgreSQL Power BI Matplotlib Seaborn VS Code Jupyter Google Colab FastAPI Scikit-learn NLTK Git Docker Render Streamlit Google Cloud
 
-Contact Me
+Contácteme
 Gmail : mcarruitero@gmail.com
-
 LinkedIn : https://www.linkedin.com/in/manuel-carruitero-b8b50688
 <!--
 **mcarruitero/mcarruitero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
