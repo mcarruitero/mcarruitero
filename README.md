@@ -5,7 +5,7 @@
 Científico de Datos y Economista. Mis pasiones son el Voluntariado, aprender y estudiar. 
 Quiero seguir una carrera en Data Engineer, Data Analyst, Machine learning, Data Scientist e Inteligencia Artificial. Por eso me gradué como Científico de Datos en la Academia Tech Henry. Busco ser parte de una empresa donde mis conocimientos puedan ser útiles.
 
-## Data Scientist | Data Analyst | Data Engineer | Economista
+## Data Scientist | Data Analyst | Data Engineer | Economista | Voluntariado
 
 - Estudié Data Science en [Henry](https://www.soyhenry.com) y Economía en la [Universidad de Lima](https://www.ulima.edu.pe)
 - Busco colaborar en Data Science
